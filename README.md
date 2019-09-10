@@ -34,3 +34,15 @@ Running tests:
 
 ## Contribute
 Just fork it, develop and then provide me an PR.
+
+## Useful Links
+
+* https://resources.github.com/downloads/development-workflows-data-scientists.pdf;
+* https://cdn2.hubspot.net/hubfs/532045/DataOps-an-Agile-Methodology-for-Data-Driven-Organizations-White-Paper-DataScience.com.pdf;
+* https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091;
+* https://cdn2.hubspot.net/hubfs/532045/oracle-ds-roadmap-worksheet.pdf;
+* https://interact.f5.com/rs/653-SMC-783/images/F5%20State%20of%20App%20Delivery%20Report%202017.pdf;
+* https://medium.com/faun/devops-without-devops-tools-3f1deb451b1c;
+* https://medium.com/experience-valley/utilizando-o-elk-stack-em-um-app-rails-como-ferramenta-de-business-intelligence-5e6ebe029422;
+* http://slides.com/jonhnathatrigueiro/docker#/;
+* 
