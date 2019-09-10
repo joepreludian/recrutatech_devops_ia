@@ -45,4 +45,6 @@ Just fork it, develop and then provide me an PR.
 * https://medium.com/faun/devops-without-devops-tools-3f1deb451b1c;
 * https://medium.com/experience-valley/utilizando-o-elk-stack-em-um-app-rails-como-ferramenta-de-business-intelligence-5e6ebe029422;
 * http://slides.com/jonhnathatrigueiro/docker#/;
-* 
+
+## Presentation Slides
+Check it out the "Releases" Page. https://github.com/joepreludian/recrutatech_devops_ia/releases
